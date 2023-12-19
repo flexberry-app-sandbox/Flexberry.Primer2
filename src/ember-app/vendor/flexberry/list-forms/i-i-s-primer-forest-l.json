@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-primer-forest-e",
+  "editForm": "i-i-s-primer-forest-e",
+  "external": false,
+  "caption": "Forest",
+  "name": "IISPrimerForestL",
+  "className": "ForestL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-primer-forest",
+      "modelProjection": "ForestL"
+    }
+  ]
+}

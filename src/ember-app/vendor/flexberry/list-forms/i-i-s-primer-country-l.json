@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-primer-country-e",
+  "editForm": "i-i-s-primer-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "IISPrimerCountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-primer-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

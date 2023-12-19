@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Primer",
+  "applicationTitle": "Primer",
+  "items": [
+    {
+      "link": null,
+      "menuName": "primer",
+      "caption": "Primer",
+      "title": "Primer",
+      "children": [
+        {
+          "link": "i-i-s-primer-forest-l",
+          "menuName": null,
+          "caption": "Forest",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-primer-animal-l",
+          "menuName": null,
+          "caption": "Animal",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-primer-country-l",
+          "menuName": null,
+          "caption": "Country",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

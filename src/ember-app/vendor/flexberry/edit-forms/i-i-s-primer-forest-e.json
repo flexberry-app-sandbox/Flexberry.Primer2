@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Forest",
+  "name": "IISPrimerForestE",
+  "className": "ForestE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-primer-forest",
+      "modelProjection": "ForestE"
+    }
+  ]
+}
